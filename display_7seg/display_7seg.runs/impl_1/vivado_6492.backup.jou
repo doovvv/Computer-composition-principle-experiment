@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Aug 30 21:09:48 2023
+# Process ID: 6492
+# Current directory: D:/vivado_projects/display_7seg/display_7seg.runs/impl_1
+# Command line: vivado.exe -log display_7seg.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source display_7seg.tcl -notrace
+# Log file: D:/vivado_projects/display_7seg/display_7seg.runs/impl_1/display_7seg.vdi
+# Journal file: D:/vivado_projects/display_7seg/display_7seg.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source display_7seg.tcl -notrace
