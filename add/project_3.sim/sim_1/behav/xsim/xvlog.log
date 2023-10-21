@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/project_3/project_3.srcs/sources_1/new/calculate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module calculate
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/project_3/project_3.srcs/sources_1/new/display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module display
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/project_3/project_3.srcs/sim_1/new/calculate_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module calculate_tb
