@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun Oct 22 00:51:34 2023
+# Process ID: 18632
+# Current directory: D:/vivado_projects/Computer-composition-principle-experiment/FSM
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3692 D:\vivado_projects\Computer-composition-principle-experiment\FSM\FSM.xpr
+# Log file: D:/vivado_projects/Computer-composition-principle-experiment/FSM/vivado.log
+# Journal file: D:/vivado_projects/Computer-composition-principle-experiment/FSM\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/vivado_projects/Computer-composition-principle-experiment/FSM/FSM.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source FSM_tb.tcl
+close_sim
