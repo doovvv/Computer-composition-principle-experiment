@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Nov  6 19:16:52 2023
+# Process ID: 10472
+# Current directory: D:/vivado_projects/memory/memory.runs/Ins_Rom_synth_1
+# Command line: vivado.exe -log Ins_Rom.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Ins_Rom.tcl
+# Log file: D:/vivado_projects/memory/memory.runs/Ins_Rom_synth_1/Ins_Rom.vds
+# Journal file: D:/vivado_projects/memory/memory.runs/Ins_Rom_synth_1\vivado.jou
+#-----------------------------------------------------------
+source Ins_Rom.tcl -notrace
