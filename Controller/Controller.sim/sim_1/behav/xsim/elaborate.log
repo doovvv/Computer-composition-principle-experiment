@@ -1,0 +1,9 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx_Vivado_SDK_2017.4_1216_1/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto f1eda293b09a4a1d9e66ffc0d132041f --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot top_tb_behav xil_defaultlib.top_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-2538] module instantiation should have an instance name [D:/vivado_projects/Computer-composition-principle-experiment/Controller/Controller.srcs/sources_1/new/top.v:62]
+ERROR: [VRFC 10-2063] Module <maindec> not found while processing module instance <md> [D:/vivado_projects/Computer-composition-principle-experiment/Controller/Controller.srcs/sources_1/new/controller.v:35]
+ERROR: [VRFC 10-2063] Module <aludec> not found while processing module instance <ad> [D:/vivado_projects/Computer-composition-principle-experiment/Controller/Controller.srcs/sources_1/new/controller.v:36]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.
