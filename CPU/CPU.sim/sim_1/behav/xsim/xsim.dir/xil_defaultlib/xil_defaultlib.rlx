@@ -1,0 +1,22 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sim_1/new/testbench.v,1700758687,verilog,,,,testbench,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/ip/data_mem/data_mem_sim_netlist.v,1701085614,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/ip/inst_mem/inst_mem_sim_netlist.v,,data_mem;data_mem_blk_mem_gen_generic_cstr;data_mem_blk_mem_gen_prim_width;data_mem_blk_mem_gen_prim_wrapper_init;data_mem_blk_mem_gen_top;data_mem_blk_mem_gen_v8_4_1;data_mem_blk_mem_gen_v8_4_1_synth;glbl,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/ip/inst_mem/inst_mem_sim_netlist.v,1701135693,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/adder.v,,inst_mem;inst_mem_blk_mem_gen_generic_cstr;inst_mem_blk_mem_gen_prim_width;inst_mem_blk_mem_gen_prim_wrapper_init;inst_mem_blk_mem_gen_top;inst_mem_blk_mem_gen_v8_4_1;inst_mem_blk_mem_gen_v8_4_1_synth,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/adder.v,1700758687,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/alu.v,,adder,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/alu.v,1700979270,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/aludec.v,,alu,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/aludec.v,1700976138,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/controller.v,,aludec,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/controller.v,1700758686,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/datapath.v,,controller,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/datapath.v,1701088051,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/maindec.v,,datapath,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/display.v,1701087394,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/maindec.v,,display,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/maindec.v,1700988871,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/mips.v,,maindec,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/mips.v,1701088051,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/mux2.v,,mips,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/mux2.v,1700790145,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/pc.v,,mux2,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/pc.v,1700986549,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/regfile.v,,flopr,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/regfile.v,1701087394,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/signext.v,,regfile,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/signext.v,1700758687,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/sl2.v,,signext,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/sl2.v,1700758687,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/top.v,,sl2,,,,,,,,
+D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sources_1/new/top.v,1701136376,verilog,,D:/vivado_projects/Computer-composition-principle-experiment/CPU/CPU.srcs/sim_1/new/testbench.v,,top,,,,,,,,
