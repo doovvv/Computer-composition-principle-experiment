@@ -1,0 +1,9 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+D:/vivado_projects/ALU/ALU.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+D:/vivado_projects/ALU/ALU.srcs/sim_1/new/ALU_tb.v,1699879458,verilog,,,,ALU_tb,,,,,,,,
+D:/vivado_projects/ALU/ALU.srcs/sources_1/new/calculate.v,1699878605,verilog,,D:/vivado_projects/ALU/ALU.srcs/sources_1/new/regfile.v,,calculate,,,,,,,,
+D:/vivado_projects/ALU/ALU.srcs/sources_1/new/regfile.v,1699879409,verilog,,D:/vivado_projects/ALU/ALU.srcs/sources_1/new/top.v,,regfile,,,,,,,,
+D:/vivado_projects/ALU/ALU.srcs/sources_1/new/top.v,1699879280,verilog,,D:/vivado_projects/ALU/ALU.srcs/sim_1/new/ALU_tb.v,,top,,,,,,,,
